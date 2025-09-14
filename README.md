@@ -34,7 +34,7 @@ This project focuses on **classifying stars based on their stellar spectra** and
 
 ## Example: HR Diagram 
 
-(hr_diagram.png)
+![HR Diagram](./hr_diagram.png)
 ---
 
 ## Features
@@ -49,4 +49,5 @@ This project focuses on **classifying stars based on their stellar spectra** and
 - SDSS Collaboration – for stellar spectra data
 - Python & Matplotlib – for data analysis and visualization
 - LaTeX – for professional scientific documentation
+
 
