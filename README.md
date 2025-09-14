@@ -34,9 +34,7 @@ This project focuses on **classifying stars based on their stellar spectra** and
 
 ## Example: HR Diagram 
 
-```bash
-python hr_diagram.py
-```
+(hr_diagram.png)
 ---
 
 ## Features
@@ -51,3 +49,4 @@ python hr_diagram.py
 - SDSS Collaboration – for stellar spectra data
 - Python & Matplotlib – for data analysis and visualization
 - LaTeX – for professional scientific documentation
+
