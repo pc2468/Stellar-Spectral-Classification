@@ -13,16 +13,6 @@ This project focuses on **classifying stars based on their stellar spectra** and
 
 ---
 
-## Repository Structure  
-.
-├── data/ # SDSS data files (if included)
-├── scripts/ # Python scripts for classification & plotting
-├── figures/ # Figures & HR diagrams
-└── output.pdf # Compiled LaTeX report
-
-
----
-
 ## Workflow  
 
 1. **Fetch data**  
@@ -46,12 +36,16 @@ This project focuses on **classifying stars based on their stellar spectra** and
 
 ```bash
 python hr_diagram.py
+```
+---
 
 ## Features
 - Stellar classification using spectral analysis
 - Clean HR diagram visualization
 - Full LaTeX report for academic use
 - Reproducible workflow with Python + SDSS data
+
+---
 
 ## Acknowledgements
 - SDSS Collaboration – for stellar spectra data
